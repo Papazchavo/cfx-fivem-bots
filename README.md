@@ -2,7 +2,9 @@
 
 Discord CFX Finder Botu, **FiveM** sunucularını ve oyuncu bilgilerini hızlıca bulmak ve görüntülemek için geliştirilmiş bir Discord botudur. Bu bot, Discord sunucularında **FiveM** oyun sunucularına dair bilgi almayı kolaylaştırır. Sunucu aramaları, oyuncu istatistikleri ve sunucu durumu gibi birçok fonksiyon sunar.
 
-### Almak için 30 star ulaşdında botu atıcam buraya. 
+### Ücretli
+
+- SATIN ALMAK İÇİN LÜTFEN SUNUCUMUZA GELİN ORADA BENİ YADA BAŞKASI SORARAK BENİ BULA BİLİRSİNİZ
 
 ## Özellikler
 
