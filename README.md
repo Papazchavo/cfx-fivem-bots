@@ -23,12 +23,17 @@ Botun kullanımını daha iyi anlamak için aşağıdaki ekran görüntüsüne g
 ![Bot Görseli](https://cdn.discordapp.com/attachments/1325866651945668731/1350251214159478835/7_sunucu_takip.PNG?ex=67d60eef&is=67d4bd6f&hm=d062dd9f3792bd657b47094eb61d16cb1c648f439352e2161883c47a028cf579&)
 
 
-### Gereksinimler
-- Node.js v14 veya üzeri
-- Bir Discord bot token'ı
+## Sunucu Bağlantı Resmi
 
-### Adımlar
+Aşağıda botunuzun sunucu bağlantı resmi bulunmaktadır:
 
-1. **Projeyi Klonlayın**:
-   ```bash
-   git clone https://github.com/KullanıcıAdı/discord-cfx-finder-botu.git
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+
+[![Discord Banner](https://api.weblutions.com/discord/invite/devcode/)](https://discord.gg/devcode)
+</table>
+
+## Lisans
+
+Bu proje MIT lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına göz atabilirsiniz.
