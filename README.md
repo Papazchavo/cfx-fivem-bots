@@ -6,6 +6,20 @@ Discord CFX Finder Botu, **FiveM** sunucularını ve oyuncu bilgilerini hızlıc
 
 - SATIN ALMAK İÇİN LÜTFEN SUNUCUMUZA GELİN ORADA BENİ YADA BAŞKASI SORARAK BENİ BULA BİLİRSİNİZ
 
+### Güvenli hosting
+
+Aşağıda botunuzun sunucu bağlantı resmi bulunmaktadır:
+
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+
+[![Discord Banner](https://api.weblutions.com/discord/invite/serverturk/)](https://discord.gg/serverturk)
+</table>
+
+
+- SATIN ALMAK İÇİN LÜTFEN SUNUCUMUZA GELİN ORADA BENİ YADA BAŞKASI SORARAK BENİ BULA BİLİRSİNİZ
+
 ## Özellikler
 
 - **Sunucu Arama**: Kullanıcılar, belirli FiveM sunucularını arayarak, aktif oyuncu sayısı, ping ve sunucu durumu gibi bilgileri anında alabilirler.
