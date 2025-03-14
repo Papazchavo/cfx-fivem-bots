@@ -4,7 +4,14 @@ Discord CFX Finder Botu, **FiveM** sunucularını ve oyuncu bilgilerini hızlıc
 
 ### Ücretli
 
-- SATIN ALMAK İÇİN LÜTFEN SUNUCUMUZA GELİN ORADA BENİ YADA BAŞKASI SORARAK BENİ BULA BİLİRSİNİZ
+Aşağıda botunuzun sunucu bağlantı resmi bulunmaktadır:
+
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+
+[![Discord Banner](https://api.weblutions.com/discord/invite/devcode/)](https://discord.gg/devcode)
+</table>
 
 ### Güvenli hosting
 
@@ -60,17 +67,6 @@ Botun kullanımını daha iyi anlamak için aşağıdaki ekran görüntüsüne g
 ![Bot Görseli](https://cdn.discordapp.com/attachments/1325866651945668731/1350251099629817866/6_iki_sunucu.PNG?ex=67d60ed4&is=67d4bd54&hm=5bce790b0c0b51fac3e44d582a0422a6bcacfda3bb6c75c6b381efe9fa85604e&)
 ![Bot Görseli](https://cdn.discordapp.com/attachments/1325866651945668731/1350251214159478835/7_sunucu_takip.PNG?ex=67d60eef&is=67d4bd6f&hm=d062dd9f3792bd657b47094eb61d16cb1c648f439352e2161883c47a028cf579&)
 
-
-## Sunucu Bağlantı Resmi
-
-Aşağıda botunuzun sunucu bağlantı resmi bulunmaktadır:
-
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-
-[![Discord Banner](https://api.weblutions.com/discord/invite/devcode/)](https://discord.gg/devcode)
-</table>
 
 ## Lisans
 
