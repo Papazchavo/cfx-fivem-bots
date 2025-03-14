@@ -9,6 +9,26 @@ Discord CFX Finder Botu, **FiveM** sunucularını ve oyuncu bilgilerini hızlıc
 - **Sunucu Durumu**: Sunucunun anlık durumu, aktif oyuncu sayısı ve ping bilgilerini hızlıca görüntüler.
 - **Kolay Kurulum**: Discord sunucusuna kolayca entegre edilebilir, botun kurulumu hızlı ve basittir.
 
+### Gereksinimler
+
+- Node.js (v20.16.0 LTS veya daha üstü)
+- Discord geliştirici portalından aldığınız bir bot token'i
+
+### Adımlar
+
+1. **Proje dosyalarını indirin**:
+
+    ```bash
+    git clone https://github.com/Papazchavo/cfx-fivem-bots
+    cd repo-adi
+    ```
+
+2. **Gerekli modülleri yükleyin**:
+
+    ```bash
+    npm install
+    ```
+
 ## Görseller
 
 Botun kullanımını daha iyi anlamak için aşağıdaki ekran görüntüsüne göz atabilirsiniz:
